@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+ /* Soumya Tarafder*/
+
+ .app__body
+ {
+   display: flex;
+ }
+
+ .app
+ {
+   background-color: #f1f2f5;
+   height: 100vh;
+ }
+
